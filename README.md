@@ -1,17 +1,17 @@
-# Analyse et Nettoyage de Données - Projet de Data Science
+# Data Analysis and Cleaning - Data Science Project
 
-## Description du Projet
+## Project Description
 
-Ce projet consiste à explorer et nettoyer un jeu de données de propriétés immobilières, `train.csv`, en utilisant la bibliothèque Python `pandas`. L'objectif est de préparer les données pour une analyse plus approfondie ou pour des modèles de machine learning. Nous visons à comprendre la structure des données, identifier et gérer les valeurs manquantes, et préparer les données pour des analyses futures.
+This project involves exploring and cleaning a real estate dataset, `train.csv`, using the Python library `pandas`. The goal is to prepare the data for further analysis or for machine learning models. We aim to understand the structure of the data, identify and handle missing values, and prepare the data for future analyses.
 
-## Prérequis
+## Prerequisites
 
 - Python 3.x
 - Pandas
 
-## Installation des Dépendances
+## Dependency Installation
 
-Assurez-vous que `pandas` est installé. Vous pouvez l'installer en utilisant `pip` si ce n'est pas déjà fait :
+Ensure that `pandas` is installed. You can install it using `pip` if it is not already installed:
 
 ```bash
 pip install pandas
